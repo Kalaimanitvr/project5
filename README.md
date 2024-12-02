@@ -2,8 +2,8 @@
 
 ## 🌟 Quick Access Links
 Explore the project details using these resources:
-- 📓 **[Tableau Workbook 1]([./project1.twbx](https://public.tableau.com/views/project6p1/dash1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**: Sales trend analysis and order status patterns.
-- 📓 **[Tableau Workbook 2]([./project2.twbx](https://public.tableau.com/views/project6p2/Task3dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**: Product line performance and deal size insights.
+- 📓 **[Tableau Workbook 1](https://public.tableau.com/views/project6p1/dash1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**: Sales trend analysis and order status patterns.
+- 📓 **[Tableau Workbook 2](https://public.tableau.com/views/project6p2/Task3dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**: Product line performance and deal size insights.
 - 📊 **[PDF Presentation](./project%20ppt%20tab1.pdf)**: High-level summary of findings and visualizations.
 
 ---
